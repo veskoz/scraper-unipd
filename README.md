@@ -8,4 +8,5 @@
 Added into /etc/httpd/conf/extra/php-fcgid.conf
 
 #This is the maximum period of time the module will wait while trying to read from or write to a FastCGI application.
+
 FcgidIOTimeout 180
