@@ -1,0 +1,4 @@
+#NetBeans project folder
+nbproject/*
+#Composer vendor folder
+vendor/*
